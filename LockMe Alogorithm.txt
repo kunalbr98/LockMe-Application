@@ -1,0 +1,26 @@
+Step 1-import packages file,IoException,Arrays,Scanner class.
+Step2-Create class LockMe in that Create Method to create folder in Directory by using file and getProperty method if not exitsts
+Step 3-Create String variable Welcom prompt to stroreand display main frame app.
+Step 4-Create String variable to store and print secondary menu
+Step 5-Create mrthod showPrimarymenu() in that use Switch case and scanner class using try block for handle exception in that
+	case 1-this case for show files
+	case 2-this case for call   showSecondaryMenu() method
+	case 3- this case for exit from app.
+	case 4-this case for call showPrimaryMenu() method again.
+
+Step 6-create  showSecondaryMenu() method for secondary menu in that use Switch case and scanner class using try block  in 
+         cases for options in secondary list
+	case a-this case for add file.
+	case b-this case for search file.
+	case c-this case for delete file.
+	case d-this case for call showPrimaryMenu() method
+	default case-this case for to print options
+Step 7- create catch block for catch exception in that call showsecondary() methd again
+
+Step 8-create showFiles(),addFiles(),createNewFile(),deleteFile(),searchFile() methods for show files present or not,Add new files,create new file,delete file, and search file using if else statement and advance forloop
+Step 9-Create Main Method in that write print statement for string variable
+step 10-Create Object for LockMe class and call method showPrimaryMenu() method using object variable refrance
+
+
+	
+      
